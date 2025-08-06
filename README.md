@@ -23,3 +23,4 @@ Feel free to contribute by:
 - Adding more quotes to the `quotes` list in `typing_speed_test_challenge.py`.
 - Enhancing the accuracy calculation logic for better assessment.
 - Implementing additional features (e.g., user profiles, quote categories).
+the end
